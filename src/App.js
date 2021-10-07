@@ -7,7 +7,7 @@ class App extends Component{
   constructor(props){
     super(props);
     this.state = {
-      nome: "Eduardo Lino 2",
+      nome: "Eduardo Lino 3",
       contador: 0,
       total: 0
     }

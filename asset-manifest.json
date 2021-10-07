@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/novolino/static/css/main.7176885d.chunk.css",
+    "main.js": "/novolino/static/js/main.6fc73e06.chunk.js",
+    "main.js.map": "/novolino/static/js/main.6fc73e06.chunk.js.map",
+    "runtime-main.js": "/novolino/static/js/runtime-main.ea32219b.js",
+    "runtime-main.js.map": "/novolino/static/js/runtime-main.ea32219b.js.map",
+    "static/js/2.26277704.chunk.js": "/novolino/static/js/2.26277704.chunk.js",
+    "static/js/2.26277704.chunk.js.map": "/novolino/static/js/2.26277704.chunk.js.map",
+    "static/js/3.1cb9c343.chunk.js": "/novolino/static/js/3.1cb9c343.chunk.js",
+    "static/js/3.1cb9c343.chunk.js.map": "/novolino/static/js/3.1cb9c343.chunk.js.map",
+    "index.html": "/novolino/index.html",
+    "static/css/main.7176885d.chunk.css.map": "/novolino/static/css/main.7176885d.chunk.css.map",
+    "static/js/2.26277704.chunk.js.LICENSE.txt": "/novolino/static/js/2.26277704.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea32219b.js",
+    "static/js/2.26277704.chunk.js",
+    "static/css/main.7176885d.chunk.css",
+    "static/js/main.6fc73e06.chunk.js"
+  ]
+}
